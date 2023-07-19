@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **WEB ,MERN**
 
-- 📫 How to reach me **tanmay2809@outlook.com**
+- 📫 How to reach me **purkayastharashmi@gmail.com**
 
 - ⚡ Fun fact **I introvert**
 
