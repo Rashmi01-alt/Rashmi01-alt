@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rashmi </h1>
 <h3 align="center">Building web experiences from front-end to back-end</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/starringRashmi/starringRashmi/blob/main/rashmi_image.jpg">
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/Rashmi/Pictures/git6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starringrashmi&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay2809" /> </p>
 
