@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **purkayastharashmi@gmail.com**
 
-- ⚡ Fun fact **I introvert**
+- ⚡ Fun fact **The heart of a shrimp is located in its head. Weird, yet kind of cool.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
